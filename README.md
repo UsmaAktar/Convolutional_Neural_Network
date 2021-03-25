@@ -1,5 +1,5 @@
 # Convolutional_Neural_Network
-## Cats and Dogs identification using deep learning
+Cats and Dogs identification using deep learning
 
 Step 1:
 Create a folder named "Project"
